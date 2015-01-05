@@ -1,0 +1,17 @@
+﻿Build started 2015-01-04 17:21:54.
+     1>Project "D:\HostShare\cocos2d-x-2.2.5\extensions\proj.win32\libExtensions.vcxproj" on node 2 (Build target(s)).
+     1>PreLinkEvent:
+         if not exist "D:\HostShare\cocos2d-x-2.2.5\projects\TextPoker\proj.win32\Debug.win32\" mkdir "D:\HostShare\cocos2d-x-2.2.5\projects\TextPoker\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\HostShare\cocos2d-x-2.2.5\extensions\proj.win32\..\..\external\libwebsockets\win32\lib\*.*" "D:\HostShare\cocos2d-x-2.2.5\projects\TextPoker\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\HostShare\cocos2d-x-2.2.5\extensions\proj.win32\..\..\external\sqlite3\libraries\win32\*.*" "D:\HostShare\cocos2d-x-2.2.5\projects\TextPoker\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 2 个文件
+         复制了 2 个文件
+       Link:
+         libExtensions.vcxproj -> D:\HostShare\cocos2d-x-2.2.5\projects\TextPoker\proj.win32\Debug.win32\libExtensions.dll
+     1>Done Building Project "D:\HostShare\cocos2d-x-2.2.5\extensions\proj.win32\libExtensions.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49
